@@ -1,0 +1,29 @@
+#divH{
+    background: #b3daff;
+}
+
+body{
+    background: #e6fff3;
+}
+
+
+#nav1{
+    padding: 0;
+}
+#nav1 li{
+    display: inline;
+}
+
+
+#aside{
+    float: right;
+}
+
+#asi1{
+    
+    width: 150px;
+}
+
+#foot{
+    
+}
