@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+
+
+#encabezado{
+    background: #b3daff;
+}
+
+body{
+    background: #e6fff3;
+}
+
+
+#nav1{
+    padding: 0;
+}
+#nav1 li{
+    display: inline;
+}
+
+
+#menu_lateral{
+    float: right;
+}
+
+#asi1{
+    
+    width: 150px;
+}
+
+#foot{
+    
+}
